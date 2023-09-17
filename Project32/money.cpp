@@ -15,16 +15,16 @@ void money::Display()
 // Виведення самих номіналів та кількість їх купюр (щоб було гарно)
 void money::DisplayIt()
 {
-    cout << endl;
-    cout << "\t" << first;
-    cout << "\t\t\t" << second << endl;
+    std::cout << std::endl;
+    std::cout << "\t" << first;
+    std::cout << "\t\t\t" << second << std::endl;
 }
 
 // Введення кількость купюр (nom - скорочено номінал)
 void money::Read(int nom)
 {
     first = nom;
-    cout << "Введіть кількість купюр : ";
-    cin >> second;
-    cout << endl;
+    std::cout << "Введіть кількість купюр : ";
+    std::cin >> second;
+    std::cout << std::endl;
 }

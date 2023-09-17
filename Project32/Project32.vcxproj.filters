@@ -21,7 +21,7 @@
     <ClCompile Include="money.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="CashIn.cpp">
+    <ClCompile Include="MoneyIn.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

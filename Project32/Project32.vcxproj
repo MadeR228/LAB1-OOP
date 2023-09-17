@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CashIn.cpp" />
+    <ClCompile Include="MoneyIn.cpp" />
     <ClCompile Include="money.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>

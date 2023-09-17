@@ -2,8 +2,6 @@
 #include <windows.h>
 #include "MoneyIn.h"
 
-using namespace std; 
-
 int main() {
 
     SetConsoleCP(1251);
